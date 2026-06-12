@@ -19,6 +19,9 @@ food crisis indicators,
 and long-term food security risk patterns.
 This project supports decision-making for analysts, policymakers, and business stakeholders by turning raw data into meaningful insights.
 
+<img width="784" height="479" alt="Screenshot 2026-06-12 110706" src="https://github.com/user-attachments/assets/61b1146e-6d5e-4457-a36a-511f117d8361" />
+
+
 Project Conclusion
 
 how food and fertilizer prices change over time,
